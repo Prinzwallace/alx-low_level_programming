@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * print_alphabet - Check description
+ * Description: it prints alphabet in lower case followed by a new line
+ * Return: Nothing.
  */
 
 void print_alphabet(void)
@@ -12,6 +12,5 @@ void print_alphabet(void)
 
 	for (i = 'a'; i <= 'z'; i++)
 		_putchar(i);
-
 	_putchar('\n');
 }
