@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**.
+/**
  * _isalpha - Entry point
  * @c: the integer value it receives
  * Description: checks alphabet
