@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prints_times_table - prints n times table
+ * print_times_table - prints n times table
  * @n: the number to be treated
  *
  * Return: Number matrix
